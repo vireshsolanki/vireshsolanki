@@ -41,10 +41,33 @@
 
 ---
 
-### 📈 Contribution Stats
+## 📈 Contribution Stats
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>Total Contributions</strong><br>
+        <img src="https://img.shields.io/badge/361-blue?style=for-the-badge" /><br>
+        <sub>Since Jun 30, 2023</sub>
+      </td>
+      <td align="center">
+        <strong>Current Streak</strong><br>
+        <img src="https://img.shields.io/badge/1-purple?style=for-the-badge&logo=fire&logoColor=white" /><br>
+        <sub>As of Jun 13, 2025</sub>
+      </td>
+      <td align="center">
+        <strong>Longest Streak</strong><br>
+        <img src="https://img.shields.io/badge/4-lightblue?style=for-the-badge" /><br>
+        <sub>Oct 7 – Oct 10, 2023</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 📊 GitHub Stats & Languages
+---
+
+## 📊 GitHub Stats & Languages
 
 <table>
   <tr>
@@ -82,9 +105,10 @@
     </td>
   </tr>
 </table>
+
 ---
 
-### 🔢 GitHub Metrics
+## 🔢 GitHub Metrics
 
 <p align="center">
   <img src="/github-metrics.svg" alt="Metrics" width="90%">
