@@ -54,24 +54,16 @@
 
 ---
 
-### 🔄 CI/CD Workflow Diagram
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/674621/199245585-df7e3dbd-bf60-4d1b-8850-78b9a4411a16.png" width="600" alt="CI/CD Pipeline">
-</p>
-
----
-
 ### 🌱 Contribution Graph
 
-[![Viresh's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vireshsolanki&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vireshsolanki&theme=react-dark" alt="Viresh's GitHub activity graph" />
+</p>
 
 ---
 
 ### ☁️ Let's Connect
 
-- 💬 Ask me about anything AWS, Terraform, or CI/CD!
+- 💬 Ask me about anything **AWS**, **Terraform**, or **CI/CD**
 - 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/viresh-solanki)
-
----
 
