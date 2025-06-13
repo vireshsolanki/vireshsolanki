@@ -1,14 +1,18 @@
-<!-- Banner -->
+<!-- DevOps Docker Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Techsalman/devops-banners/main/devops-banner.gif" width="100%" alt="DevOps Banner" />
+  <img src="https://raw.githubusercontent.com/ArjunAranetaCodes/devops-banners/main/docker-devops-blue.png" width="100%" alt="Docker DevOps Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Viresh Solanki</h1>
 <h3 align="center">AWS Cloud & DevOps Engineer | IaC & Automation Enthusiast</h3>
 
 <p align="center">
-  <a href="https://medium.com/@vireshsolanki58"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/viresh-solanki"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@vireshsolanki58">
+    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/viresh-solanki">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=vireshsolanki&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
