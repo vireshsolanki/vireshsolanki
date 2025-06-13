@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/L6U8VoD.png" alt="DevOps Banner" width="100%">
+<img src="https://drive.google.com/uc?export=view&id=1ynr47Vk7PZwwbyjewPqOxfxrsoI4SMBU" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Viresh Solanki</h1>
