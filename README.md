@@ -1,72 +1,74 @@
 <!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/L6U8VoD.png" alt="DevOps Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Viresh Solanki</h1>
 <h3 align="center">AWS Cloud & DevOps Engineer | IaC & Automation Enthusiast</h3>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
+
 - 💻 I specialize in **AWS Cloud**, **DevOps**, and **Infrastructure as Code**
-- 🔧 Passionate about automation using **Terraform, Ansible, and CI/CD pipelines**
+- 🛠️ Passionate about automation using **Terraform**, **Ansible**, and **CI/CD pipelines**
 - 🌐 Currently working at **Electromech CloudTech Pvt Ltd, Ahmedabad**
-- 📝 I write articles on [Medium](https://medium.com/@vireshsolanki58)
+- ✍️ I write articles on [**Medium**](https://medium.com/@vireshsolanki58)
 
 ---
 
-### 📫 Connect With Me
+## 🤝 Connect With Me
+
 <p align="left">
   <a href="https://linkedin.com/in/viresh-solanki" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  &nbsp;
   <a href="https://medium.com/@vireshsolanki58" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+  &nbsp;
   <a href="mailto:vireshsolanki58@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
-### 🧰 Tech Stack
+## 🛠 Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=kubernetes&theme=light" alt="Kubernetes" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=terraform&theme=light" alt="Terraform" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=ansible&theme=light" alt="Ansible" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=bash&theme=light" alt="Bash" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VSCode" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nginx&theme=light" alt="Nginx" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" style="margin-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=docker" height="40" style="margin-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" style="margin-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=terraform" height="40" style="margin-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=ansible" height="40" style="margin-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=linux" height="40" style="margin-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=bash" height="40" style="margin-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=git" height="40" style="margin-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=github" height="40" style="margin-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" style="margin-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" style="margin-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=python" height="40" style="margin-right: 10px;">
 </p>
 
 ---
 
-### 📊 GitHub Stats Dashboard
-
-<!-- GitHub Metrics SVG -->
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
----
-
-### 🔥 GitHub Streak
+## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vireshsolanki&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vireshsolanki&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vireshsolanki&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vireshsolanki&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 🧠 Notable Projects
+## 📈 Metrics
 
-- **[AutoCloud-audit-bot](https://github.com/vireshsolanki/AutoCloud-audit-bot)** – Detect under-provisioned AWS resources 🔍  
-- **[aws_dashboard_automation](https://github.com/vireshsolanki/aws_dashboard_automation)** – CloudWatch monitoring with Terraform/CloudFormation 📊  
-- **[aws_iam_policy_terraform](https://github.com/vireshsolanki/aws_iam_policy_terraform)** – One-click IAM setup with Terraform 🔐  
-- **[argocd_for_AWS_eks_with_terraform](https://github.com/vireshsolanki/argocd_for_AWS_eks_with_terraform)** – ArgoCD integration for EKS 🚀  
-
----
-
-<p align="center">Thanks for visiting! 🚀</p>
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics" width="100%">
+</p>
