@@ -18,7 +18,11 @@
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,jenkins,githubactions,python,bash,linux,ubuntu,prometheus,grafana,git,github,vscode,nginx&theme=dark" height="50" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,jenkins" height="80" alt="DevOps Tools" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,ubuntu,git,github" height="80" alt="Development Tools" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx,vscode,githubactions" height="80" alt="Monitoring & Tools" />
 </div>
 
 ## 📊 GitHub Statistics
@@ -51,13 +55,6 @@
 ### 🔧 DevOps Tools
 - **[CI-CD-Pipeline-Templates](https://github.com/vireshsolanki/cicd-templates)** - Collection of CI/CD pipeline templates
 - **[Monitoring-Stack](https://github.com/vireshsolanki/monitoring-stack)** - Complete monitoring solution with Prometheus & Grafana
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Advanced Terraform Patterns for AWS Infrastructure](https://medium.com/@vireshsolanki58/advanced-terraform-patterns-123456)
-- [Kubernetes Security Best Practices](https://medium.com/@vireshsolanki58/kubernetes-security-best-practices-789012)
-- [Building Scalable CI/CD Pipelines](https://medium.com/@vireshsolanki58/scalable-cicd-pipelines-345678)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Connect With Me
 
