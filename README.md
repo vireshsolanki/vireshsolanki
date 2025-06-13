@@ -41,9 +41,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vireshsolanki&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vireshsolanki&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vireshsolanki&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vireshsolanki&theme=tokyonight" alt="Contribution Timeline"/>
 </div>
 
 ## 🌟 Featured Projects
