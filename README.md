@@ -1,8 +1,4 @@
-<!-- Banner: DevOps Visual That Always Loads -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/674621/160248682-34cd8f0f-1f3c-4c4f-9296-3f2d7f3c8b66.png" width="100%" alt="DevOps Banner" />
-</p>
-
+<!-- Banner -->
 <h1 align="center">Hi 👋, I'm <span style="color:#007acc">Viresh Solanki</span></h1>
 <h3 align="center">AWS Cloud & DevOps Engineer | IaC & Automation Enthusiast</h3>
 
@@ -26,17 +22,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vireshsolanki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vireshsolanki&layout=compact&theme=tokyonight" height="180px" />
+  <img src="https://github.com/vireshsolanki/vireshsolanki/blob/main/github-metrics.svg" alt="Metrics" />
 </p>
 
-<!-- 🔥 GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vireshsolanki&theme=tokyonight" />
-</p>
+> 💡 To make the dashboard show up:
+> 1. Visit: [GitHub Metrics setup](https://github.com/lowlighter/metrics)
+> 2. Follow the setup to enable GitHub Actions to generate your `github-metrics.svg`
+> 3. Place it in your `vireshsolanki/vireshsolanki` repo
 
 ---
 
