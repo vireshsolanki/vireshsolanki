@@ -41,44 +41,47 @@
 
 ---
 
-## 📊 GitHub Insights
-
-### 🧮 Contribution Overview
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <strong>Total Contributions</strong><br>
-        <img src="https://img.shields.io/badge/358-blue?style=for-the-badge" /><br>
-        <sub>Since Jun 30, 2023</sub>
-      </td>
-      <td align="center">
-        <strong>Current Streak</strong><br>
-        <img src="https://img.shields.io/badge/1-purple?style=for-the-badge" /><br>
-        <sub>As of Jun 13, 2025</sub>
-      </td>
-      <td align="center">
-        <strong>Longest Streak</strong><br>
-        <img src="https://img.shields.io/badge/4-lightblue?style=for-the-badge" /><br>
-        <sub>Oct 7 – Oct 10, 2023</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 📈 Contribution Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vireshsolanki&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vireshsolanki&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vireshsolanki&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
+### 📊 GitHub Stats & Languages
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+      <h4>🔹 Viresh Solanki's GitHub Stats</h4>
+
+      <ul>
+        <li>⭐️ <strong>Total Stars Earned:</strong> 1</li>
+        <li>🔁 <strong>Total Commits (2025):</strong> 104</li>
+        <li>📦 <strong>Total PRs:</strong> 2</li>
+        <li>🐞 <strong>Total Issues:</strong> 1</li>
+        <li>📆 <strong>Contributed to (last year):</strong> 5</li>
+      </ul>
+
+      <img src="https://img.shields.io/badge/Grade-C-blueviolet?style=flat-square&logo=codefactor" />
+
+    </td>
+    
+    <td valign="top" width="50%">
+
+      <h4>🎯 Most Used Languages</h4>
+
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vireshsolanki&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+
+      <ul>
+        <li><span style="color:#58a6ff;">●</span> Python – 90.38%</li>
+        <li><span style="color:#ff69b4;">●</span> C++ – 5.90%</li>
+        <li><span style="color:#da70d6;">●</span> Cython – 2.16%</li>
+        <li><span style="color:#aaa;">●</span> C – 0.95%</li>
+        <li><span style="color:#f1e05a;">●</span> JavaScript – 0.37%</li>
+        <li><span style="color:#e34c26;">●</span> HTML – 0.23%</li>
+      </ul>
+
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🔢 GitHub Metrics
