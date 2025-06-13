@@ -30,11 +30,9 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vireshsolanki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vireshsolanki&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=vireshsolanki&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vireshsolanki&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
@@ -43,8 +41,6 @@
 
 ## 📈 Contribution Activity
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vireshsolanki&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-  <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vireshsolanki&theme=tokyonight" alt="Contribution Timeline"/>
 </div>
 
