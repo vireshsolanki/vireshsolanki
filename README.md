@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Banner: DevOps Visual That Always Loads -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/public/banners/devops-banner.png" width="100%" alt="DevOps Banner" />
+  <img src="https://user-images.githubusercontent.com/674621/160248682-34cd8f0f-1f3c-4c4f-9296-3f2d7f3c8b66.png" width="100%" alt="DevOps Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#007acc">Viresh Solanki</span></h1>
@@ -10,11 +10,11 @@
 
 ### 🔹 About Me
 
-- 🚀 Currently at **Electromech CloudTech Pvt Ltd**
+- 🚀 Working @ **Electromech CloudTech Pvt Ltd**
 - 🌍 Based in **Ahmedabad, India**
-- ⚙️ Specializing in **AWS**, **Terraform**, **CI/CD**, **Docker**, and **Cloud Automation**
-- ✍️ Sharing thoughts on [Medium](https://medium.com/@vireshsolanki58)
-- 👨‍💻 Passionate about clean infrastructure, scalable pipelines, and open-source
+- ⚙️ Passionate about **AWS**, **Terraform**, **CI/CD**, **Cloud Automation**
+- ✍️ Sharing on [Medium](https://medium.com/@vireshsolanki58)
+- 🛠 Automating everything from infrastructure to deployment pipelines
 
 ---
 
@@ -31,6 +31,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vireshsolanki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vireshsolanki&layout=compact&theme=tokyonight" height="180px" />
+</p>
+
+<!-- 🔥 GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vireshsolanki&theme=tokyonight" />
 </p>
 
 ---
@@ -56,10 +61,4 @@
   <a href="https://medium.com/@vireshsolanki58">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vireshsolanki&theme=tokyonight" />
 </p>
