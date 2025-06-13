@@ -1,6 +1,6 @@
-<!-- Banner or Hero Image -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="DevOps animation">
+  <img src="https://raw.githubusercontent.com/Techsalman/devops-banners/main/devops-banner.gif" width="100%" alt="DevOps Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Viresh Solanki</h1>
@@ -27,16 +27,16 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=terraform&theme=dark" height="40" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="40" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="40" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=ansible&theme=dark" height="40" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="40" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" style="margin-right:15px;" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40" style="margin-right:15px;" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40" />
+  <img src="https://skillicons.dev/icons?i=terraform&theme=dark" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="40" />
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="40" />
+  <img src="https://skillicons.dev/icons?i=ansible&theme=dark" height="40" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" />
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="40" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40" />
 </p>
 
 ---
@@ -66,4 +66,3 @@
 
 - 💬 Ask me about anything **AWS**, **Terraform**, or **CI/CD**
 - 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/viresh-solanki)
-
