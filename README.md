@@ -17,10 +17,9 @@
 ### 💼 About Me
 
 - 🚀 Working @ **Electromech CloudTech Pvt Ltd**
-- 🌐 Based in **Ahmedabad, India**
-- 🔭 I’m currently working on: **Cloud Automation, DevOps CI/CD Pipelines**
+- 🌍 Based in **Ahmedabad, India**
+- 🔭 Building: **Cloud automation, DevOps pipelines, serverless tooling**
 - ✍️ Writing on [Medium](https://medium.com/@vireshsolanki58)
-- 🧠 Learning more about **Serverless, GitOps, and Kubernetes**
 - ⚡ Fun fact: I automate everything I can 😄
 
 ---
@@ -28,21 +27,30 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,ansible,bash,python,git,github,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40" style="margin-right:15px;" />
+  <img src="https://skillicons.dev/icons?i=terraform&theme=dark" height="40" style="margin-right:15px;" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="40" style="margin-right:15px;" />
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="40" style="margin-right:15px;" />
+  <img src="https://skillicons.dev/icons?i=ansible&theme=dark" height="40" style="margin-right:15px;" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" style="margin-right:15px;" />
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="40" style="margin-right:15px;" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" style="margin-right:15px;" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" style="margin-right:15px;" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40" style="margin-right:15px;" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vireshsolanki&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vireshsolanki&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_title=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vireshsolanki&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🧠 Featured Projects
+### 🚀 Featured Projects
 
 | Name | Description | Stack |
 |------|-------------|-------|
@@ -51,14 +59,6 @@
 | [argocd_for_AWS_eks_with_terraform](https://github.com/vireshsolanki/argocd_for_AWS_eks_with_terraform) | GitOps with ArgoCD + EKS | ☸️ Terraform |
 | [aws_lambda_start_stop_ec2](https://github.com/vireshsolanki/aws_lambda_start_stop_ec2) | Schedule EC2 start/stop | 🐍 Terraform |
 | [aws_iam_policy_terraform](https://github.com/vireshsolanki/aws_iam_policy_terraform) | Create IAM policies with Terraform | 🛡️ HCL |
-
----
-
-### 🌱 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vireshsolanki&theme=react-dark" alt="Viresh's GitHub activity graph" />
-</p>
 
 ---
 
