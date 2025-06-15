@@ -66,7 +66,7 @@
 
 ## 💡 Fun Facts
 
-- 🔭 I'm currently working on advanced Kubernetes orchestration patterns
+- 🔭 I'm currently working on advanced AWS Cloud.
 - 🌱 I'm continuously learning about cloud-native technologies and best practices
 - 👯 I'm looking to collaborate on open-source DevOps projects
 - 💬 Ask me about AWS, Terraform, Docker, Kubernetes, or CI/CD pipelines
